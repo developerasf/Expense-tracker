@@ -8,7 +8,7 @@ This is a React Expense tracker app. It uses functional components with hooks an
 npm install
 
 # Run on http://localhost:3000
-npm start
+npm run dev 
 
 # Build for prod
 npm run build
